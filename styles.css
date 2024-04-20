@@ -1,0 +1,110 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+h2 {
+    font-weight: 700;
+    color: #007bff;
+}
+
+.bg-light {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.bg-primary {
+    background-color: #007bff;
+    color: #ffffff;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.biography-section {
+    margin-bottom: 60px;
+}
+
+a {
+    color: #007bff;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.col-md-6 {
+    margin-bottom: 0 !important;
+}
+
+.col-md-6 p {
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+h4 {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.icon {
+    margin-right: 10px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.full-width-button {
+    width: 100%;
+}
+
+.footer-image {
+    width: 20%;
+    height: auto;
+    margin-right: 10px;
+    margin-left: 40px;
+}
+
+.modal-dialog {
+    max-width: 90%;
+}
+
+.modal-body img {
+    max-width: 100%;
+    height: auto;
+}
+
+.video-container {
+    position: relative;
+    max-width: 100%;
+}
+
+.video-container p {
+    margin-bottom: 10px;
+}
+
+.video-container video {
+    width: 100%;
+    height: auto;
+}
